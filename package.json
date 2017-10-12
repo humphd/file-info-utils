@@ -1,0 +1,9 @@
+{
+  "name": "file-info-utils",
+  "version": "1.0.0",
+  "description": "Simple Node.js library for looking up information about a file on disk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
